@@ -1,0 +1,9 @@
+{
+  "name": "demo537",
+  "description": "demo",
+  "version": "0.0.1",
+  "author": "demo",
+  "dependencies": {
+    "lodash": "4.17.5"
+  }
+}
